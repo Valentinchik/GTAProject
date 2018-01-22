@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 4c92ba910da80314588e2473a3341881
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: barrel.bmp
+    100004: base.bmp
+    100006: bolt_handle.bmp
+    100008: buttstock.bmp
+    100010: ejector_port.bmp
+    100012: magazine.bmp
+    100014: newparts.bmp
+    100016: newparts2.bmp
+    100018: scope.bmp
+    100020: scope_clamps.bmp
+    400000: //RootNode
+    400002: barrel.bmp
+    400004: base.bmp
+    400006: bolt_handle.bmp
+    400008: buttstock.bmp
+    400010: ejector_port.bmp
+    400012: magazine.bmp
+    400014: newparts.bmp
+    400016: newparts2.bmp
+    400018: scope.bmp
+    400020: scope_clamps.bmp
+    2300000: barrel.bmp
+    2300002: base.bmp
+    2300004: bolt_handle.bmp
+    2300006: buttstock.bmp
+    2300008: ejector_port.bmp
+    2300010: magazine.bmp
+    2300012: newparts.bmp
+    2300014: newparts2.bmp
+    2300016: scope.bmp
+    2300018: scope_clamps.bmp
+    3300000: barrel.bmp
+    3300002: base.bmp
+    3300004: bolt_handle.bmp
+    3300006: buttstock.bmp
+    3300008: ejector_port.bmp
+    3300010: magazine.bmp
+    3300012: newparts.bmp
+    3300014: newparts2.bmp
+    3300016: scope.bmp
+    3300018: scope_clamps.bmp
+    4300000: scope.bmp
+    4300002: newparts2.bmp
+    4300004: scope_clamps.bmp
+    4300006: buttstock.bmp
+    4300008: barrel.bmp
+    4300010: ejector_port.bmp
+    4300012: base.bmp
+    4300014: magazine.bmp
+    4300016: bolt_handle.bmp
+    4300018: newparts.bmp
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

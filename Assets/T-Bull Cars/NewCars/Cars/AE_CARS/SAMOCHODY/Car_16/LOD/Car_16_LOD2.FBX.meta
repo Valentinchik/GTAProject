@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 5490d03e06d12d846b8716b61f2bdde5
+labels:
+- Car
+- Sports
+- Vehicle
+- Race
+- Racer
+- Lowpoly
+- Lod
+- Hardsurface
+- Wheels
+- Auto
+- Automobile
+- Game
+- Mobile
+- Ride
+- Chase
+- Run
+- Fast
+- Interior
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Body_16_Focus003
+    100002: Body_16_Focus_LOD2
+    100004: //RootNode
+    100006: Glass_16_Focus_LOD2
+    100008: Matte_16_Focus_LOD2
+    100010: Taillight_16_Focus_LOD2
+    100012: Wheel_Back_LOD2
+    100014: Wheel_L_LOD2
+    100016: Wheel_R_LOD2
+    100018: Body_16
+    100020: Glass_16
+    100022: Matte_16
+    100024: Taillight_16
+    100026: Wheel_BackL
+    100028: Wheel_BackR
+    400000: Body_16_Focus003
+    400002: Body_16_Focus_LOD2
+    400004: //RootNode
+    400006: Glass_16_Focus_LOD2
+    400008: Matte_16_Focus_LOD2
+    400010: Taillight_16_Focus_LOD2
+    400012: Wheel_Back_LOD2
+    400014: Wheel_L_LOD2
+    400016: Wheel_R_LOD2
+    400018: Body_16
+    400020: Glass_16
+    400022: Matte_16
+    400024: Taillight_16
+    400026: Wheel_BackL
+    400028: Wheel_BackR
+    2300000: Body_16_Focus003
+    2300002: Body_16_Focus_LOD2
+    2300004: Glass_16_Focus_LOD2
+    2300006: Matte_16_Focus_LOD2
+    2300008: Taillight_16_Focus_LOD2
+    2300010: Wheel_Back_LOD2
+    2300012: Wheel_L_LOD2
+    2300014: Wheel_R_LOD2
+    2300016: Body_16
+    2300018: Glass_16
+    2300020: Matte_16
+    2300022: Taillight_16
+    2300024: Wheel_BackL
+    2300026: Wheel_BackR
+    3300000: Body_16_Focus003
+    3300002: Body_16_Focus_LOD2
+    3300004: Glass_16_Focus_LOD2
+    3300006: Matte_16_Focus_LOD2
+    3300008: Taillight_16_Focus_LOD2
+    3300010: Wheel_Back_LOD2
+    3300012: Wheel_L_LOD2
+    3300014: Wheel_R_LOD2
+    3300016: Body_16
+    3300018: Glass_16
+    3300020: Matte_16
+    3300022: Taillight_16
+    3300024: Wheel_BackL
+    3300026: Wheel_BackR
+    4300000: Matte_16_Focus_LOD2
+    4300002: Glass_16_Focus_LOD2
+    4300004: Wheel_L_LOD2
+    4300006: Taillight_16_Focus_LOD2
+    4300008: Wheel_Back_LOD2
+    4300010: Body_16_Focus_LOD2
+    4300012: Body_16_Focus003
+    4300014: Wheel_R_LOD2
+    4300016: Wheel_BackR
+    4300018: Matte_16
+    4300020: Wheel_BackL
+    4300022: Taillight_16
+    4300024: Glass_16
+    4300026: Body_16
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

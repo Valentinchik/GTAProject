@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 38506d0bac3fd334e9eeeeeee6a6c701
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bagaj
+    100002: collider
+    100004: door_bl
+    100006: door_br
+    100008: door_f_r
+    100010: door_fl
+    100012: glass
+    100014: glass 1
+    100016: glass 2
+    100018: glass 3
+    100020: glass_back
+    100022: glass_bl
+    100024: glass_br
+    100026: glass_f
+    100028: kapot
+    100030: kuzov
+    100032: kuzov_lod
+    100034: kuzov_lod2
+    100036: robber
+    100038: rule
+    100040: salon
+    100042: //RootNode
+    100044: wheel
+    100046: wheel001
+    100048: wheel002
+    400000: bagaj
+    400002: collider
+    400004: door_bl
+    400006: door_br
+    400008: door_f_r
+    400010: door_fl
+    400012: glass
+    400014: glass 1
+    400016: glass 2
+    400018: glass 3
+    400020: glass_back
+    400022: glass_bl
+    400024: glass_br
+    400026: glass_f
+    400028: kapot
+    400030: kuzov
+    400032: kuzov_lod
+    400034: kuzov_lod2
+    400036: robber
+    400038: rule
+    400040: salon
+    400042: //RootNode
+    400044: wheel
+    400046: wheel001
+    400048: wheel002
+    2300000: bagaj
+    2300002: collider
+    2300004: door_bl
+    2300006: door_br
+    2300008: door_f_r
+    2300010: door_fl
+    2300012: glass
+    2300014: glass 1
+    2300016: glass 2
+    2300018: glass 3
+    2300020: glass_back
+    2300022: glass_bl
+    2300024: glass_br
+    2300026: glass_f
+    2300028: kapot
+    2300030: kuzov
+    2300032: kuzov_lod
+    2300034: kuzov_lod2
+    2300036: robber
+    2300038: rule
+    2300040: salon
+    2300042: wheel
+    2300044: wheel001
+    2300046: wheel002
+    3300000: bagaj
+    3300002: collider
+    3300004: door_bl
+    3300006: door_br
+    3300008: door_f_r
+    3300010: door_fl
+    3300012: glass
+    3300014: glass 1
+    3300016: glass 2
+    3300018: glass 3
+    3300020: glass_back
+    3300022: glass_bl
+    3300024: glass_br
+    3300026: glass_f
+    3300028: kapot
+    3300030: kuzov
+    3300032: kuzov_lod
+    3300034: kuzov_lod2
+    3300036: robber
+    3300038: rule
+    3300040: salon
+    3300042: wheel
+    3300044: wheel001
+    3300046: wheel002
+    4300000: kuzov
+    4300002: salon
+    4300004: kapot
+    4300006: wheel
+    4300008: door_bl
+    4300010: glass
+    4300012: glass_back
+    4300014: bagaj
+    4300016: door_fl
+    4300018: glass
+    4300020: glass_br
+    4300022: glass_f
+    4300024: door_br
+    4300026: glass
+    4300028: door_f_r
+    4300030: glass
+    4300032: rule
+    4300034: glass_bl
+    4300036: wheel001
+    4300038: kuzov_lod
+    4300040: kuzov_lod2
+    4300042: collider
+    4300044: wheel002
+    4300046: robber
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

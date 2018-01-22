@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: d107b8db0506c2140a6f6e5f0f9572ec
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: back
+    100002: body
+    100004: collider
+    100006: door_0
+    100008: doors
+    100010: dulo
+    100012: //RootNode
+    100014: krilo_l
+    100016: krilo_r
+    100018: pulem
+    100020: pulem 1
+    100022: turbo_l
+    100024: turbo_r
+    100026: vint
+    100028: vint 1
+    100030: vint_back
+    100032: vint_front
+    100034: vint_speed
+    100036: vint_speed 1
+    400000: back
+    400002: body
+    400004: collider
+    400006: door_0
+    400008: doors
+    400010: dulo
+    400012: //RootNode
+    400014: krilo_l
+    400016: krilo_r
+    400018: pulem
+    400020: pulem 1
+    400022: turbo_l
+    400024: turbo_r
+    400026: vint
+    400028: vint 1
+    400030: vint_back
+    400032: vint_front
+    400034: vint_speed
+    400036: vint_speed 1
+    2300000: back
+    2300002: body
+    2300004: collider
+    2300006: door_0
+    2300008: dulo
+    2300010: krilo_l
+    2300012: krilo_r
+    2300014: pulem 1
+    2300016: turbo_l
+    2300018: turbo_r
+    2300020: vint
+    2300022: vint 1
+    2300024: vint_speed
+    2300026: vint_speed 1
+    3300000: back
+    3300002: body
+    3300004: collider
+    3300006: door_0
+    3300008: dulo
+    3300010: krilo_l
+    3300012: krilo_r
+    3300014: pulem 1
+    3300016: turbo_l
+    3300018: turbo_r
+    3300020: vint
+    3300022: vint 1
+    3300024: vint_speed
+    3300026: vint_speed 1
+    4300000: body
+    4300002: turbo_r
+    4300004: turbo_l
+    4300006: krilo_l
+    4300008: krilo_r
+    4300010: back
+    4300012: vint_speed
+    4300014: vint
+    4300016: vint
+    4300018: vint_speed
+    4300020: pulem
+    4300022: dulo
+    4300024: door_0
+    4300026: collider
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
